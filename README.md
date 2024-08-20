@@ -1,1 +1,1 @@
-# PatikaIMDBList
+Kullanıcıdan alının film adları ve puanları ile bir liste oluşturulacak. Bunun için en başta Film sınıfı oluşturuldu ve kapsülleme ve constructor metotu yapıldı. Daha sonra while döngüsü ile kullanıcının istediği kadar konsola veri girmesi sağlandı. Nesnelerden oluşturulan liste, foreach döngüsü ile konsola tekrar yazdırıldı. Daha sonra lambda ve LINQ metotları kullanılarak A ile başlayan filmler ve 4-9 puan arasındaki filmler ekrana gene foreach kullanılarak yazdırıldı. 
